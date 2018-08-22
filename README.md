@@ -18,7 +18,7 @@ If you want to edit the layout yourself, download Microsoft's [Keyboard Layout C
 
 ## Linux (in short)
 
-You can find more detailed instructions for Linux [here](linux/README.md).
+You can find more detailed instructions for Linux [here](linux/README.md). Also, this should be available in xkeyboard's extras package now, though I frankly have not used that myself.
 
 1. [Download the keymap files here](https://github.com/brndd/dvorakfi/releases/download/1.0/dvorakfi_linux.zip)
 2. Extract the archive
