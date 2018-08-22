@@ -25,8 +25,7 @@ You can find more detailed instructions for Linux [here](linux/README.md). Also,
 3. Copy dvficstm (no file extension) to the XKB keymap directory, which on at least Ubuntu and Fedora is `/usr/share/X11/xkb/symbols/`
 4. Add the layout to `evdev.xml` (make a backup first), which similarly is found somewhere like `/usr/share/X11/xkb/rules/evdev.xml`. Open the file, find the line `</layoutList>`, and add this before that line, after the last `</layout>` tag:
 
-```
-xml
+```xml
 <layout>
   <configItem>
     <name>dvficstm</name>

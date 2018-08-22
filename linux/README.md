@@ -12,7 +12,7 @@ list, you'll have to create an entry for it in
 Open `evdev.xml` (back it up first), search for `</layoutList>`,
 and insert the following between the last `</layout>` tag and `</layoutList>`:
 
-```
+```xml
 <layout>
   <configItem>
     <name>dvficstm</name>
