@@ -1,1 +1,1 @@
-This is the Microsoft Keyboard Layout Creator file for the keymap. You can open and edit it using the [Microsoft Keyboard Layout Creator](https://www.microsoft.com/en-us/download/details.aspx?id=22339). To use it, you will need a compiled version, available on the releases page.
+This is the Microsoft Keyboard Layout Creator file for the keymap. You can open and edit it using the [Microsoft Keyboard Layout Creator](https://www.microsoft.com/en-us/download/details.aspx?id=22339). To use it you will need a compiled version, available on the releases page.
