@@ -1,4 +1,4 @@
-#INSTALLATION INSTRUCTIONS AS OF 2017-08:
+# INSTALLATION INSTRUCTIONS AS OF 2017-08:
 
 Linux installation is a little bit involved, and these instructions are subject
 to stop working at any time, and may vary based on your distro. That's how Linux
