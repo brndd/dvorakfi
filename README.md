@@ -55,28 +55,28 @@ I've used a Dvorak keyboard layout over the standard QWERTY keyboard for many ye
 I originally swapped over almost extemporaneously sometime around 2010-2011 after an IRC acquintance mentioned he was using Dvorak.
 I liked the idea of a more ergonomic home row, and Dvorak is worth way more hipster cred than the normie tier QWERTY.
 
-Problem was, there is no "official" Finnish Dvorak layout. I could find a couple of existing layouts online, although only [ArkkuDvorak](http://arkku.com/dvorak/) seems to be around now.
-ArkkuDvorak is a bit... well, very silly in that it puts the Finnish Ä and Ö characters on the same key — the <>| -key
+The problem was, there is no "official" Finnish Dvorak layout. There were a couple of existing layouts online, although only [ArkkuDvorak](http://arkku.com/dvorak/) seems to be around now.
+ArkkuDvorak is a bit... well, *very* silly in that it puts the Finnish Ä and Ö characters on the same key — the <>| -key
 that is present on the Finnish (and a handful of other European) keyboards, but missing on the US layout.
-What's more, it was done so that pressing the key normally produced a lower-case Ä, while pressing it with Shift produces a lower-case Ö.
+What's more, the way it worked was that pressing the key normally produced a lower-case Ä, while pressing it with Shift produces a lower-case Ö.
 The upper-case versions of these letters were behind an AltGr modifier. I didn't like this at all, so I decided
 to make my own flavour of Dvorak.
 
 I based my layout on an alternate Finnish Dvorak layout I found online, which seems to have vanished from the intertubes since then.
 The layout was called **Suomalainen monikielinen Dvorak** (*Finnish multilingual Dvorak*), but I can't remember the name of the author. If you're reading, thanks a bunch!
 
-If I remember correctly, Ä and Ö were behind an AltGr modifier on A and O, respectively. I didn't like that either; they're common letters in the Finnish language, so I wanted them to have separate keys of their own.
+If I remember correctly, on that layout Ä and Ö were behind an AltGr modifier on A and O, respectively. I didn't like that either; they're common letters in the Finnish language, so I wanted them to have keys of their own.
 I solved this by binding Ä to the extra <>| key which was unused in regular Dvorak, and Ö to the key next to it, the Z key on QWERTY.
-On Dvorak, Z is used for colon : and semicolon ;, so to make room I moved these behind a shift modifier on comma and period, much like on QWERTY.
+On Dvorak, this key is used for colon : and semicolon ;, so to make room I moved these behind a shift modifier on comma and period, much like on QWERTY.
 This displaced the < and > symbols, so I moved those behind an AltGr modifier instead. This way I could fit both Ä and Ö on their own keys without losing any functionality.
-They ended up in a pretty good spot, too: in Dvorak all vowels are pressed with your left hand's fingers.
+They ended up in a pretty good spot, too: in Dvorak all vowels are pressed with the fingers of the left hand.
 The Swedish character Å, also occasionally used in Finnish, was left behind an AltGr-modifier on O, as I write very little Swedish.
 It's still a pretty alright place for it anyway.
 
 Over the years I've modified the layout as the need arises. Mostly I've added commonly used symbols that were absent (and are also absent on the QWERTY layout!).
 For instance the degree sign ° is behind AltGr-0, en and em dash are behind an AltGr modifier on the regular dash; en dash with just AltGr and em dash with AltGr-Shift.
-The mu symbol µ is under AltGr-M. The macron, ¯, commonly used for Japanese romanization to mark a long vowel, is under Shift-AltGr-Ö (that's QWERTY layout Z),
+The mu symbol µ is under AltGr-M. The macron, ¯, commonly used in Japanese romanization to mark a long vowel, is under Shift-AltGr-Ö (that's QWERTY layout Z),
 while the diaeresis ¨ is under the same key but without shift. And a bunch of other more or less useful special characters.
 
 The layout isn't designed to be complete for any particular foreign language, however. It should have all the necessary symbols for all Nordic languages, though.
-If you need any missing glyphs, go ahead and add them yourself! Editing the keymap is pretty straightforward.
+If you can't find the glyphs you need, go ahead and add them yourself! Editing the keymap is pretty straightforward.
