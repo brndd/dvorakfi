@@ -66,7 +66,7 @@ I based my layout on an alternate Finnish Dvorak layout I found online, which se
 The layout was called **Suomalainen monikielinen Dvorak** (*Finnish multilingual Dvorak*), but I can't remember the name of the author. If you're reading, thanks a bunch!
 
 If I remember correctly, Ä and Ö were behind an AltGr modifier on A and O, respectively. I didn't like that either; they're common letters in the Finnish language, so I wanted them to have separate keys of their own.
-I solved this by binding Ä to the extra `<>|` key which was unused in regular Dvorak, and Ö to the key next to it, the Z key on QWERTY.
+I solved this by binding Ä to the extra <>| key which was unused in regular Dvorak, and Ö to the key next to it, the Z key on QWERTY.
 On Dvorak, Z is used for colon : and semicolon ;, so to make room I moved these behind a shift modifier on comma and period, much like on QWERTY.
 This displaced the < and > symbols, so I moved those behind an AltGr modifier instead. This way I could fit both Ä and Ö on their own keys without losing any functionality.
 They ended up in a pretty good spot, too: in Dvorak all vowels are pressed with your left hand's fingers.
