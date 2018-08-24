@@ -8,7 +8,7 @@ This is my homebrew Finnish Dvorak layout, created to include the Finnish charac
 
 ## Windows
 
-1. [Download the installer here](https://github.com/brndd/dvorakfi/releases/download/1.0/dvorakfi_windows.zip)
+1. [Download the installer here](https://github.com/brndd/dvorakfi/releases)
 2. Extract the archive
 3. Run `setup.exe` to install the keymap
 4. Activate the layout in the Control Panel's language menu. It's under the name "Finnish Unofficial Dvorak Keyboard Layout".
@@ -20,7 +20,7 @@ If you want to edit the layout yourself, download Microsoft's [Keyboard Layout C
 
 You can find more detailed instructions for Linux [here](linux/README.md). Also, this should be available in xkeyboard's extras package now; you should be able to find it among the other Finnish keymaps under the name "Finnish Dvorak" (symbols name: fidvorak).
 
-1. [Download the keymap files here](https://github.com/brndd/dvorakfi/releases/download/1.0/dvorakfi_linux.zip)
+1. [Download the keymap files here](https://github.com/brndd/dvorakfi/releases)
 2. Extract the archive
 3. Copy dvficstm (no file extension) to the XKB keymap directory, which on at least Ubuntu and Fedora is `/usr/share/X11/xkb/symbols/`
 4. Add the layout to `evdev.xml` (make a backup first), which similarly is found somewhere like `/usr/share/X11/xkb/rules/evdev.xml`. Open the file, find the line `</layoutList>`, and add this before that line, after the last `</layout>` tag:
