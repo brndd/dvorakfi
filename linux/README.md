@@ -39,10 +39,10 @@ http://people.uleth.ca/~daniel.odonnell/Blog/custom-keyboard-in-linuxx11
 If you want to use this in the virtual console (you know, the scary thing that
 opens when you press ctrl-alt-F2 or some other function key, these fuckers go
 all the way up to F7), you'll have to convert the XKB file to a KBD file using
-ckbcomp. I've already included a compiled KBD version of the keymap, though,
+`ckbcomp`, available in the `console-setup` package on Fedora and Debian(?). I've already included a compiled KBD version of the keymap, though,
 so you only have to do this if you change something yourself.
 
-With the dvficstm file in `/X11/xkb/symbols/`, run:
+With the dvficstm file in `/usr/share/X11/xkb/symbols/`, run:
 ```
 ckbcomp dvficstm dvficstm | gzip > dvficstm.map.gz
 ```
