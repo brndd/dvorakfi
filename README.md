@@ -18,6 +18,8 @@ If you want to edit the layout yourself, download Microsoft's [Keyboard Layout C
 
 ## Linux (in short)
 
+**Update: this is included in the xkeyboard-config package (and has been for many years now, actually). It is in the "extras" section; some systems, e.g. KDE, show it by default among all the other Finnish keyboard layouts. On GNOME, you need to use gnome-tweaks to enable the "Show Extended Input Sources" option (apparently—I have not tested this) as per [this SuperUser answer](https://superuser.com/a/1719180.**
+
 You can find more detailed instructions for Linux [here](linux/README.md). Also, this should be available in xkeyboard's extras package now; you should be able to find it among the other Finnish keymaps under the name "Finnish Dvorak" (symbols name: fidvorak).
 
 1. [Download the keymap files here](https://github.com/brndd/dvorakfi/releases)
